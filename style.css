@@ -9,7 +9,7 @@ html {
 
 body {
     font: normal 0.8em arial, sans_serif;
-    background:url(image/sky.png);
+    background:url(sky.png);
     color: #555;
 }
 
@@ -75,7 +75,7 @@ ul li {
 
 #main {
     width: 910px;
-    background: url(images/content.png);
+    background: url(content.png);
 }
 
 #header {
@@ -85,7 +85,7 @@ ul li {
 
 #logo {
     width: 890px;
-    background: url(images/logo.jpg);
+    background: url(logo.jpg);
     position: relative;
     height: 350px;
 }
@@ -198,7 +198,7 @@ ul li {
 .sidebar li a, .sidebar li a:hover {
     padding: 0 0 0 40px;
     display: block;
-    background: transparent url(images/link.png) no-repeat left center;
+    background: transparent url(link.png) no-repeat left center;
 }
 
 .sidebar li a.selected {
@@ -219,7 +219,7 @@ ul li {
 
 #content ul li {
     list-style:  none;
-    background: url(images/bullet.png) no-repeat;
+    background: url(bullet.png) no-repeat;
     margin: 0 0 6px 0;
     padding: 0 0 4px 25px;
     line-height: 1.5em;
